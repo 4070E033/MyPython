@@ -7,6 +7,18 @@
 
 # 深度學習 http://moocs.nccu.edu.tw/course/172/intro
 
+# 什麼是機器學習（Machine Learning）？
+
+`````````
+機器學習是一種資料科學的技術也是一種實現人工智慧的一種方式
+
+協助電腦從現有的資料學習，以便預測未來的行為、結果和趨勢
+根據學習的方式又可以分為需要解答的監督式學習（Supervised learning）
+非監督式學習（Unsupervised learning）和增強學習（Reinforcement learning）等
+
+````````
+
+
 # 「強人工智慧（Strong AI）和「弱人工智慧」（Weak AI）
 
 `````````
