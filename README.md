@@ -10,7 +10,7 @@
 
 # 資訊安全技術 https://www.youtube.com/watch?v=Y-V9LLJHfjQ&list=PLFCAlv-jS6C5E7Qh4ZWvHH4WCyxGMwuo3&index=9
 
-# https://www.youtube.com/watch?v=o0b4e6poCuU&list=PLTUz0iSGGyykaahKxzU0dF80TtVfmM-dC
+# 更詳細的課程 https://www.youtube.com/watch?v=o0b4e6poCuU&list=PLTUz0iSGGyykaahKxzU0dF80TtVfmM-dC
 
 # 什麼是機器學習（Machine Learning）？
 
