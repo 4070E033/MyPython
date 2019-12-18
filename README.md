@@ -16,9 +16,9 @@
 根據學習的方式又可以分為需要解答的監督式學習（Supervised learning）
 非監督式學習（Unsupervised learning）和增強學習（Reinforcement learning）等
 
-# 「強人工智慧（Strong AI）和「弱人工智慧」（Weak AI）
-
 `````````
+
+# 「強人工智慧（Strong AI）和「弱人工智慧」（Weak AI）
 
 # 強人工智慧指的是有自我意識、有知覺可以自己推理和解決問題的機器智慧
 
