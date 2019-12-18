@@ -5,9 +5,9 @@
 
 # https://docs.python.org/zh-tw/3/tutorial/index.html
 
-# 深度學習  http://moocs.nccu.edu.tw/course/172/intro
+# 深度學習 http://moocs.nccu.edu.tw/course/172/intro
 
-# https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
+# 機器學習導論 https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
 
 # https://www.youtube.com/watch?v=B1JZq7XcuWc&list=PLFCAlv-jS6C5E7Qh4ZWvHH4WCyxGMwuo3&index=1
 
