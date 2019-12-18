@@ -8,8 +8,7 @@
 
 # 機器學習 https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
 
-# 資訊安全技術 https://www.youtube.com/watch?v=B1JZq7XcuWc&list=PLFCAlv-jS6C5E7Qh4ZWvHH4WCyxGMwuo3&index=1
-
+# 資訊安全技術 https://www.youtube.com/watch?v=Y-V9LLJHfjQ&list=PLFCAlv-jS6C5E7Qh4ZWvHH4WCyxGMwuo3&index=9
 
 # 什麼是機器學習（Machine Learning）？
 
