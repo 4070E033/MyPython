@@ -25,3 +25,5 @@
 
  「弱人工智慧」只能模擬人類的思維與行為表現，但缺乏真正的推理與解決問題的能力，也不具有自主意識。
 `````````
+
+# https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
