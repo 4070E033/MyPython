@@ -7,7 +7,7 @@
 
 # 深度學習 http://moocs.nccu.edu.tw/course/172/intro
 
-# 「強人工智慧」（Strong AI）和「弱人工智慧」（Weak AI）
+# 「強人工智慧（Strong AI）和「弱人工智慧」（Weak AI）
 
 `````````
 
