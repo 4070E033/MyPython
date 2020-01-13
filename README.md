@@ -12,9 +12,9 @@
 
 # 更詳細的課程 https://www.youtube.com/watch?v=o0b4e6poCuU&list=PLTUz0iSGGyykaahKxzU0dF80TtVfmM-dC
 
-# 什麼是機器學習（Machine Learning）？
-
 # 爬蟲實戰 https://www.youtube.com/watch?v=9Z9xKWfNo7k
+
+# 什麼是機器學習（Machine Learning）？
 
 `````````
 機器學習是一種資料科學的技術也是一種實現人工智慧的一種方式
