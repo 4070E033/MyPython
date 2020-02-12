@@ -3,6 +3,7 @@
 
 # Python Runoob https://www.runoob.com/python3/python3-tutorial.html
 # Python 入門教學  https://docs.python.org/zh-tw/3/tutorial/index.html
+# https://docs.python.org/3/library/functions.html
 
 # 深度學習 http://moocs.nccu.edu.tw/course/172/intro
 
@@ -13,6 +14,7 @@
 # 更詳細的課程 https://www.youtube.com/watch?v=o0b4e6poCuU&list=PLTUz0iSGGyykaahKxzU0dF80TtVfmM-dC
 
 # 爬蟲實戰 https://www.youtube.com/watch?v=9Z9xKWfNo7k
+
 
 # 什麼是機器學習（Machine Learning）？
 
