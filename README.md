@@ -61,3 +61,136 @@ a = 0x11 # 十六進制
 print(a)
 
 `````````
+
+`````````
+a = 10
+b = 3
+print(a/b)  # a除b
+print(a%b)  # 取餘數
+print(a//b) #只取整數
+
+# ** 次方
+
+print(a**2)
+
+# 正負號
+a = 3
+b = -a
+print(b)
+
+`````````
+
+`````````
+a = input("Input a number:")
+print(a)
+print(type(a))
+
+# 型別轉換
+
+strA = input("Input a number:")
+print(type(strA))
+a = int(strA)
+print(type(a))
+
+`````````
+
+`````````
+
+a = eval(input("Input your name"))
+b = eval(input("Input your name"))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(type(a))
+print(type(b))
+
+`````````
+
+`````````
+a = input("Input you number")
+b = input("Input you number")
+
+intA = int(str(a))
+intB = int(str(b))
+
+print(intA+intB)
+print(intA-intB)
+print(intA*intB)
+print(intA/intB)
+print(intA%intB)
+
+
+`````````
+
+
+`````````
+a = 3
+b = 5
+a, b = b, a
+print(a)
+print(b)
+
+tmp = a
+a = b
+b = tmp
+print(a)
+print(b)
+
+`````````
+
+`````````
+score = int(input("number"))
+if score < 100:
+    print("true")
+else:
+    print("= =")
+    
+`````````
+
+`````````
+
+a = 1+2j
+b = 3+5j
+c = a + b
+print(c)
+print(c.real)
+print(c.imag)
+
+`````````
+
+`````````
+
+name = 'wang'"long""jie"
+print(name)
+
+s = "A"
+s = s*10
+print(s)
+
+fullname = "wang\tlong\tjie"
+print(fullname)
+
+fullname = r"wang\tlong\jie"
+print(fullname)
+
+`````````
+
+`````````
+
+name1 = input("請輸入第一位學生的姓名：")
+score1 = input("請輸入第一位學生的成績")
+
+name2 = input("請輸入第二位學生的姓名：")
+score2 = input("請輸入第二位學生的成績")
+
+intscore1 = int(str(score1))
+intscore2 = int(str(score2))
+
+print("姓名\t\t成績")
+print(name1 + str(score1))
+print(name2 + str(score2))
+print("成績的總分為:",intscore1 + intscore2)
+
+`````````
