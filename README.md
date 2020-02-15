@@ -96,11 +96,11 @@ print(type(a))
 
 `````````
 
-a = eval(input("Input your name"))
-b = eval(input("Input your name"))
-print(a+b)
-print(a-b)
-print(a*b)
+a = eval(input("Input your number"))
+b = eval(input("Input your number"))
+print(a+b)             
+print(a-b)            ＃運算子
+print(a*b)  
 print(a/b)
 print(a%b)
 print(type(a))
@@ -128,7 +128,7 @@ print(intA%intB)
 `````````
 a = 3
 b = 5
-a, b = b, a
+a, b = b, a 數值轉換
 print(a)
 print(b)
 
