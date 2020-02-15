@@ -52,7 +52,7 @@ print(a!=b)
 
 `````````
 
-````````
+`````````
 a = 0b11 # 二進制
 print(a)
 a = 0o11 # 八進制
@@ -60,28 +60,4 @@ print(a)
 a = 0x11 # 十六進制
 print(a)
 
-````````
-````````
-a = 10
-b = 3
-print(a/b)  # a除b
-print(a%b)  # 取餘數
-print(a//b) #只取整數
-
-# ** 次方
-
-print(a**2)
-
-# 正負號
-a = 3
-b = -a
-print(b)
-
-````````
-
-````````
-a = input("Input a number:")
-print(a)
-print(type(a))
-
-
+`````````
