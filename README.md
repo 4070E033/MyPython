@@ -39,7 +39,7 @@
 `````````
 a = 1
 b = 2.0
-print(type(a))
+print(type(a))  ＃型別判斷
 print(type(b))
 
 `````````
