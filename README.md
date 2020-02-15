@@ -36,3 +36,10 @@
  
 `````````
 
+a = 1
+b = 2.0
+print(type(a))
+print(type(b))
+
+
+
