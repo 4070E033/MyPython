@@ -93,7 +93,6 @@ print(type(a))
 
 ```````
 
-```````
 a = eval(input("Input your name"))
 b = eval(input("Input your name")) 
 print(a+b)
@@ -104,7 +103,6 @@ print(a%b)
 print(type(a))
 print(type(b))
 
-```````
 a = input("Input you number")
 b = input("Input you number")
 
